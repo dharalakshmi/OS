@@ -1,8 +1,7 @@
+Disc Scheduling Simulator – Operating System 
 
-
-
-
-
+Project Overview
+The Disc Scheduling Simulator project is an implementation designed to simulate various disc scheduling algorithms used in operating systems to manage and optimize the order of read/write requests on the disk. Disc scheduling plays a vital role in improving the overall performance of the system by reducing seek time and efficiently managing I/O operations. This project demonstrates how different algorithms prioritize requests, allowing users to visualize their impact on performance.
 
 
 ![image](https://github.com/user-attachments/assets/c4e690bd-7560-4d51-800d-4c4821d15a64)
