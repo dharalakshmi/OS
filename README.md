@@ -4,7 +4,7 @@ Project Overview
 The Disc Scheduling Simulator project is an implementation designed to simulate various disc scheduling algorithms used in operating systems to manage and optimize the order of read/write requests on the disk. Disc scheduling plays a vital role in improving the overall performance of the system by reducing seek time and efficiently managing I/O operations. This project demonstrates how different algorithms prioritize requests, allowing users to visualize their impact on performance.
 
 
-Disc Scheduling Algorithms
+Disc Scheduling Algorithms: 
 This simulator implements the following disc scheduling algorithms:
 
 First Come First Serve (FCFS):
