@@ -14,7 +14,7 @@ First Come First Serve (FCFS):
 2. Simple but may result in long wait times for certain requests.
 
 Shortest Seek Time First (SSTF):
-1.Selects the disk request that is closest to the current position of the disk arm, minimizing seek time.
+1. Selects the disk request that is closest to the current position of the disk arm, minimizing seek time.
 2. More efficient than FCFS but may lead to starvation of distant requests.
 
 SCAN (Elevator Algorithm):
